@@ -1,4 +1,3 @@
-# For submission of R² Data Labs Responsible Growth Hack
 
 # Hariyali Frontend
 
